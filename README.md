@@ -1,3 +1,5 @@
+https://tacticalhippopotamus.com/
+
 # Code Style
 * Java style
 * try to keep functions under 25 lines
