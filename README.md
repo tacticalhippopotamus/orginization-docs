@@ -1,6 +1,6 @@
 # Code Style
 Java style
->25 line functions
+25 line max functions
 javadoc every function with what it does
 minimise side effects in functions
 document any side effects
