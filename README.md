@@ -12,3 +12,10 @@ https://tacticalhippopotamus.com/
 * each feature gets a branch
 * squash before mergining into master
 * everything reviewed before merging
+
+# Versions
+* major.minor.patch
+* stages
+  * Alpha: 1.2.3-a
+  * Release Candidate: 1.2.3-rc
+  * Release: 1.2.3
